@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LessonMD7</string>
+    <string name="title_activity_bottom" />
+    <string name="title_home" />
+    <string name="title_dashboard" />
+    <string name="title_notifications" />
+    <string name="first_page">First page</string>
+    <string name="second_page">Second page</string>
+    <string name="third_page">Third Page</string>
+</resources>
